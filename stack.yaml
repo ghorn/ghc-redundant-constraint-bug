@@ -1,0 +1,7 @@
+resolver: lts-10.2
+
+compiler-check: newer-minor
+
+# Local packages, usually specified by relative directory name
+packages:
+- .
